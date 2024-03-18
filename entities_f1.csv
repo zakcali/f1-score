@@ -1,0 +1,62 @@
+﻿compare;y_true;y_pred;entity;report_no
+TRUE;O;O;IVKM verilmeden  aksiyel planda;1
+FALSE;O;OBS-P;3 mm;1
+TRUE;O;O;kalınlıkta kesitler elde olunmuştur.;1
+TRUE;O;O;2022 tarihli toraks BT tetkiki ile kıyaslamalı değerlendirilmiştir.;1
+TRUE;IMP;IMP;Soliter fibröz tümör;1
+TRUE;O;O;nedeni ile;1
+TRUE;IMP;IMP;opere;1
+TRUE;O;O;olan hastada;1
+TRUE;ANAT;ANAT;trakea;1
+TRUE;ANAT;ANAT;her iki ana bronş;1
+TRUE;OBS-P;OBS-P;açıktır;1
+TRUE;ANAT;ANAT;Mediastende;1
+TRUE;OBS-P;OBS-P;kısa çapı 1 cm'yi geçmeyen;1
+TRUE;OBS-P;OBS-P;lenf nodları;1
+TRUE;O;O;izlenmiştir.;1
+TRUE;ANAT;ANAT;Her iki hilus;1
+TRUE;OBS-U;OBS-U;inceleme kontrastsız olduğu için optimal değerlendirilememiştir;1
+TRUE;ANAT;ANAT;Her iki hemitoraksta;1
+TRUE;ANAT;ANAT;plevral;1
+TRUE;OBS-A;OBS-A;effüzyon;1
+TRUE;OBS-A;OBS-A;kalınlaşma;1
+TRUE;O;O;bulgusu izlenmedi.;1
+TRUE;ANAT;ANAT;Kemik yapılarda;1
+TRUE;OBS-P;OBS-P;minimal;1
+TRUE;OBS-P;OBS-P;dejeneratif değişiklikler;1
+TRUE;OBS-P;OBS-P;rotoskolyoz;1
+TRUE;O;O;izlenmiş olup;1
+TRUE;OBS-A;OBS-A;litik, destrüktif;1
+TRUE;OBS-A;OBS-A;kitle lezyonu;1
+TRUE;O;O;saptanmamıştır.;1
+TRUE;ANAT;ANAT;Her iki akciğer parankim alanlarının;1
+TRUE;O;O;"değerlendirilmesinde;";1
+TRUE;OBS-A;OBS-A;pnömonik infiltrasyon;1
+TRUE;O;O;saptanmamıştır.;1
+TRUE;ANAT;ANAT;Sağ akciğer;1
+TRUE;ANAT;ANAT;alt lob;1
+TRUE;ANAT;ANAT;düzeyinde;1
+TRUE;ANAT;ANAT;operasyon lojunda;1
+TRUE;OBS-U;OBS-U;round atelektazi ile uyumlu bulgular;1
+TRUE;OBS-P;OBS-P;sekel;1
+TRUE;ANAT;ANAT;subplevral yağlı dokuda;1
+FALSE;OBS-P;ANAT;artış;1
+TRUE;O;O;dikkati çekmiş olup eski tetkik ile kıyaslandığında anlamlı farklılık saptanmadı.;1
+TRUE;ANAT;ANAT;Her iki akciğer parankiminde;1
+TRUE;OBS-A;OBS-A;spiküle konturlu;1
+TRUE;OBS-A;OBS-A;malignite kriterleri taşıyan;1
+TRUE;OBS-A;OBS-A;nodül;1
+TRUE;O;O;izlenmedi.;1
+TRUE;O;O;Diğer BT bulgularında anlamlı farklılık izlenmedi.;1
+TRUE;O;O;SONUÇ:;1
+TRUE;IMP;IMP;Takipte;1
+TRUE;IMP;IMP;opere;1
+TRUE;IMP;IMP;soliter fibröz tümör;1
+TRUE;ANAT;ANAT;Sağ alt lob;1
+TRUE;ANAT;ANAT;düzeyinde;1
+TRUE;ANAT;ANAT;operasyon lojunda;1
+TRUE;OBS-P;OBS-P;sekel fibroatelektazik değişiklikler;1
+TRUE;ANAT;ANAT;Kemik yapılarda;1
+TRUE;OBS-P;OBS-P;dejeneratif değişiklikler;1
+TRUE;OBS-A;OBS-A;Pnömoni;1
+TRUE;O;O;saptanmadı.;1
